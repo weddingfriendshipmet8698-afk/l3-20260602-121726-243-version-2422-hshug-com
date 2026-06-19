@@ -1,0 +1,21 @@
+{
+  "source_movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_page_count": 8,
+  "category_counts": {
+    "rihan-jingxuan": 250,
+    "jingxuan-piandan": 250,
+    "zuixin-gengxin": 250,
+    "gaokoubei-reying": 250,
+    "xuanyi-jingsong": 250,
+    "aiqing-juqing": 250,
+    "dongzuo-fanzui": 250,
+    "jiating-qihuan": 250
+  },
+  "html_file_count": 2013,
+  "baidu_snippet_in_all_html": true,
+  "video_source_count_extracted_from_original_js": 150,
+  "unique_video_source_count": 20,
+  "cover_mapping_formula": "X = ((N - 1) % 150) + 1",
+  "logo_name": "日韩精选视频"
+}
